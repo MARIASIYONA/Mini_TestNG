@@ -1,0 +1,1 @@
+{"uuid":"0a2695e7-d16c-4959-a6a3-0f998ad8a673","name":"Min_TestNG.TestnG_Amazon.setUp","children":["8942b17c-7330-4868-8cf0-7c2c0e7f8130"],"description":"","befores":[{"name":"setUp","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694663519523,"stop":1694663519524}],"afters":[],"start":1694663519523,"stop":1694663519524}
